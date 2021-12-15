@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Starter Template with React, Reach Router and MUI
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
